@@ -1,1 +1,2 @@
 Content of a modify file
+Adding changes to cause conflict and solve them through merge
