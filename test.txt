@@ -1,3 +1,3 @@
 Content of a modify file 1
 Adding changes to cause conflict and solve them through merge
-Adding 3 another line
+Adding 5 another line
